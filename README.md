@@ -1,7 +1,5 @@
-# vansh
-All these task's solution is in wt.pdf
-
-Tasks:
+# GeeksterWorkVansh
+All these task's solution is in wt.pdf, Tasks for Wt-1 :
 
 1. Initialize an empty repository in your local machine.
 
@@ -32,3 +30,13 @@ Tasks:
 14. Create a GitHub repository with your own name.
 
 15. Push your code to the same repository.
+
+All these task's solution solved in 'Weekly Test 2.pdf', Tasks for Wt-2 :
+
+1. Use the `requests` library to fetch the HTML content of the webpage.
+
+2. Parse the HTML content using Beautiful Soup to extract the question and its answers.
+
+3. Look for the question with the specified title.
+
+4. Extract the answers provided for that question.

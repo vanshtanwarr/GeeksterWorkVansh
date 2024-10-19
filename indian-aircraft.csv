@@ -1,0 +1,57 @@
+,Aircraft,Origin,Type,Variant,In service,Notes
+0,Dassault Rafale,France,Multirole,DH,8[1],
+1,EH,28[1],,,,
+2,HAL Tejas,India,Multirole,Mk.1,31[2][3],
+3,Conversion trainer,Mk.1 Trainer,2[4][5],Used for training; 16 more on order[6],,
+4,Multirole,Mk.1A,,"73 on order, 97 more approved[6][7]",,
+5,Sukhoi Su-30MKI,Russia,Multirole,Su-30MKI Flanker H,259[8][9],12 more cleared.[10]
+6,Mikoyan MiG-29,Soviet Union,Multirole,Fulcrum,53[1][11],Including 12 MiG-29UPG.
+7,Fulcrum B,7[1],,,,
+8,Dassault Mirage 2000,France,Multirole,-2000H,37[1],
+9,-2000TH,10[1],Used for training.,,,
+10,SEPECAT Jaguar,United Kingdom,Attack,IB,28[1],Used for training.
+11,IS,79[1],,,,
+12,IM,8[1],Maritime strike aircraft carrying Sea Eagle missile.,,,
+13,Mikoyan-Gurevich MiG-21,Soviet Union,Interceptor,MiG-21 Bison,40[12],Being phased out.[13]
+14,Embraer R-99,Brazil,AEW&C,Netra Mk1,3[14],equipped with a  Netra AEW&CS.
+15,Beriev A-50,Soviet Union,AEW&C,A-50EI,3[14],equipped with the EL/W-2090 radar. 2 more planned.[15][16]
+16,Boeing 707,United States,SIGINT / ELINT,707-337C Phalcon,1[14],Operated by Aviation Research Centre (ARC) of R&AW.[17][18]
+17,Global 5000,United States,SIGINT / ELINT,,2[14],
+18,Gulfstream III,United States,ELINT,SRA[19],3[14],
+19,Gulfstream G100,Israel,surveillance,1125 Astra,2[14],
+20,Ilyushin Il-78,Soviet Union,aerial refuelling,Il-78MKI,6[14],
+21,Boeing 777,United States,VIP transport,777-300ER,2[20],Used as Air India One for presidential flight
+22,Boeing 737,United States,VIP transport,737-700,3[21],
+23,Embraer Legacy 600,Brazil,VIP transport,,4[22],
+24,Boeing C-17,United States,strategic airlifter,,11[14],
+25,Ilyushin Il-76,Soviet Union,strategic airlifter,Il-76MD,17[14],
+26,C-130J Super Hercules,United States,tactical airlifter,C-130J-30[23],12[14],
+27,Airbus A321,Europe,transport,A321-200,4[14],
+28,Antonov An-32,Soviet Union,tactical airlifter,,103[14],53 are the 32RE variant[24]
+29,EADS CASA C-295,Spain,tactical airlifter,C-295MW,5[25],51 more on order - HS 748 replacement[26]
+30,Hawker Siddeley HS 748,United Kingdom,tactical airlifter,,57[14],To be replaced by EADS CASA C-295
+31,Dornier Do 228,Germany,tactical airlifter,228-201,58[14],license built by HAL[27]
+32,Boeing AH-64,United States,attack,AH-64E,22[14],
+33,Mil Mi-24,Russia,attack,Mi-24/25/35,15[14],
+34,HAL Prachand,India,attack,,10[28],66 on order[29]
+35,HAL Rudra,India,attack,,16,50 on order.[30]
+36,CH-47 Chinook,United States,transport,CH-47F,15[14],
+37,Mil Mi-17,Russia,utility,Mi-17V-5,222[14],
+38,HAL Dhruv,India,utility,,95[14],
+39,HAL Light Utility Helicopter,India,utility,,,6 on order[31]
+40,Alouette III,France/India,liaison,Chetak,77[14],license-built by HAL. A fleet of around 120 aircraft.[32]
+41,Cheetal,18[33],,,,
+42,SA 315B Lama,France/India,utility,Cheetah,18[14],
+43,BAE Hawk,United Kingdom,Advanced trainer,Hawk 132,"101
+[14][34]",
+44,HAL Kiran,India,Intermediate trainer,,77[14],
+45,HAL HTT-40,India,Basic trainer,,,70 on order [14]
+46,Pilatus PC-7,Switzerland,Basic trainer,Mk II,75[14],
+47,Pipistrel Virus,Slovenia,Ab initio trainer,,72[35][36],
+48,IAI Heron,Israel,surveillance,Heron 1,47[37],[38]
+49,IAI Heron Mk 2,Israel,surveillance,Mk 2,4[39][40],
+50,MQ-9 Reaper,United States,Surveillance/ Combat,SkyGuardian,8 on order,[41]
+51,IAI Searcher,Israel,surveillance,Mk. I / II,,[42]
+52,ALS-50,India,loitering munition,,100[43],
+53,Kadet Loitering Aerial Munition,India,loitering munition,,50+ on order,"Developed by DRDO and KDS
+Multiple variants; Weight - 15 to 120 kg; Warhead - 2 to 40 kg; Max. Endurance - 12 hrs; Max. Range - 150 to 300 km; Canister launched and vertical take-off and landing (VTOL) variants[44][45]"
